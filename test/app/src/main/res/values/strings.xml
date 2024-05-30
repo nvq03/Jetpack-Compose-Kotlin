@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Tôi là một người mạnh mẽ</string>
+    <string name="affirmation2">Tôi yêu chính bản thân mình</string>
+    <string name="affirmation3">Muốn sẽ tìm cách không muốn sẽ tìm lý do</string>
+    <string name="affirmation4">Mỗi ngày ến trường là một ngày vui</string>
+    <string name="affirmation5">yêu tổ quốc, yêu đồng bào</string>
+    <string name="affirmation6">Ngày tuyệt vời là ngày ta vẫn còn được sống</string>
+    <string name="affirmation7">Tình yêu là thứ tuyệt đẹp nhất trên đời</string>
+    <string name="affirmation8">Có công mài sắt có ngày nên kim</string>
+    <string name="affirmation9">Yêu thầy cô, yêu bạn bè</string>
+    <string name="affirmation10">Tập luyện thể thao dồi dào sức khoẻ</string>
+
+    <string name="day1">day1</string>
+    <string name="day2">day2</string>
+    <string name="day3">day3</string>
+    <string name="day4">day4</string>
+    <string name="day5">day5</string>
+    <string name="day6">day6</string>
+    <string name="day7">day7</string>
+    <string name="day8">day8</string>
+    <string name="day9">day9</string>
+    <string name="day10">day10</string>
+
+    <string name="description1">Tôi là một người mạnh mẽ và tự tin trong khả năng của mình. Tôi luôn luôn đặt mục tiêu cao và không ngừng nỗ lực để đạt được những thành công lớn.</string>
+    <string name="description2">Tôi yêu và trân trọng chính bản thân mình với tất cả những phẩm chất và tiềm năng mà tôi sở hữu.</string>
+    <string name="description3">Nếu tôi muốn, tôi sẽ tìm cách vượt qua mọi khó khăn và đạt được mục tiêu.</string>
+    <string name="description4">Mỗi ngày đến trường là một cơ hội để học hỏi, gặp gỡ bạn bè và trải nghiệm niềm vui của việc học tập</string>
+    <string name="description5">Tôi yêu tổ quốc và yêu đồng bào với tất cả tình yêu và lòng trung thành của mình.</string>
+    <string name="description6">Ngày tuyệt vời là ngày chúng ta được sống, trân trọng và tận hưởng mọi khoảnh khắc trong cuộc sống.</string>
+    <string name="description7">Tình yêu là một điều tuyệt vời nhất trên đời, nó mang lại niềm hạnh phúc, sự đồng cảm và sự kết nối sâu sắc giữa con người.</string>
+    <string name="description8">Có công mài sắt, có ngày nên kim. Điều này ám chỉ rằng khi ta cố gắng làm việc chăm chỉ và kiên nhẫn, thì sẽ đạt được thành tựu và thành công.</string>
+    <string name="description9">Yêu thầy cô và yêu bạn bè là những tình cảm đáng quý, chúng mang lại sự hỗ trợ, sự đồng hành và niềm vui trong cuộc sống.</string>
+    <string name="description10">Tập luyện thể thao là một cách tuyệt vời để dồi dào sức khoẻ và tăng cường cơ thể. Qua việc rèn luyện, ta không chỉ có thể cải thiện sức mạnh, sự linh hoạt và sự bền bỉ, mà còn tăng cường hệ miễn dịch và giảm căng thẳng.</string>
+</resources>
